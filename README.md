@@ -1,5 +1,5 @@
 # data-visualizing-
-Data visualizing with tableau dashboard and using an SQL database 
+Interactive Dashboard using tableau and SQL database with the help of mySQL 
 
 The Full dashboard can be seen in [tableau cloud](https://prod-apnortheast-a.online.tableau.com/#/site/arfandashboard/views/salestableaudashboard/Dashboard1?:iid=3)
 
